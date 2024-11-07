@@ -1,2 +1,21 @@
-# weird-monster-master
-Weird-Monster-Master is a unique project coded in Python, Node.js, and JavaScript, featuring bizarre, interactive monsters. Created by Ashwanth, this project combines creativity and countless hours of coding to bring these characters to life. Dive in and explore the strange world of Weird-Monster-Master!
+# weird-monster
+Weird Monster - html, css and js
+# Demo
+* One: <a href="https://tuberboy.github.io/weird-monster/one.html" target="_blank">Click Here</a>
+* Two: <a href="https://tuberboy.github.io/weird-monster/two.html" target="_blank">Click Here</a>
+* Three: <a href="https://tuberboy.github.io/weird-monster/three.html" target="_blank">Click Here</a>
+* Four: <a href="https://tuberboy.github.io/weird-monster/four.html" target="_blank">Click Here</a>
+* Five: <a href="https://tuberboy.github.io/weird-monster/five.html" target="_blank">Click Here</a>
+<img src="Screenshot.png"/>
+
+# Spider
+<img src="Screenshot-Spider.png"/>
+* Demo: <a href="https://tuberboy.github.io/weird-monster/spider.html" target="_blank">Click Here</a>
+
+# Hourse
+<img src="Screenshot-Hourse.png"/>
+* Demo: <a href="https://tuberboy.github.io/weird-monster/hourse.html" target="_blank">Click Here</a>
+
+# Dragon
+<img src="Screenshot-Dragon.png"/>
+* Demo: <a href="https://tuberboy.github.io/weird-monster/dragon.html" target="_blank">Click Here</a>
